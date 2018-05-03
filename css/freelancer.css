@@ -44,12 +44,12 @@ hr.star-dark:after {
 }
 
 hr.star-light {
-  border-color: #fff;
+  border-color: #2C3E50;
 }
 
 hr.star-light:after {
-  color: #fff;
-  background-color: #018ABD;
+  color: #2C3E50;
+  background-color: #97CBDC;
 }
 
 hr.star-dark {
@@ -197,9 +197,11 @@ header.masthead h2 {
   header.masthead h1 {
     font-size: 4.75em;
     line-height: 4rem;
+    color: #2C3E50;
   }
   header.masthead h2 {
     font-size: 1.75em;
+    color: #2C3E50;
   }
 }
 
@@ -332,7 +334,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #004481;
+  background-color: #2C3E50;
   color: #fff;
 }
 
@@ -353,7 +355,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #018ABD !important;
+  background-color: #97CBDC !important;
 }
 
 .bg-secondary {
